@@ -1,3 +1,3 @@
 module.exports = {
-  Fitworld: require('./fitworld.js'),
+  Fitworld: require('./fitWorld.js'),
 };

@@ -2,7 +2,7 @@
 
 ## Application URL
 
-My code can be found at [Team Generator](https://sheldonmall.github.io/team-generator/) 
+My code can be found at [Fit World](https://sheldonmall.github.io/fitworld/) 
 
 ## Description
 
